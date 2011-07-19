@@ -1,0 +1,5 @@
+Scenario - Gill Fert adding input to a A Certain Age Fashion:
+
+Gill is looking at her favorite french blog - http://afemmeduncertainage.blogspot.com/ and found a fascinating blog post on how to approach les soldes (seasonal sales). Not all of the information applies to the Eastern Seaboard but Gill still thinks has a bunch of great tips and ideas so she sends the link to the A Certain Age Fashion - Sales and Shopping bookmarklet and continues on her way.
+
+Farther down the page she sees a charming little quote about not wearing a message on a shirt when over 40. Gill selects the quote and then triggers the catch all A Certain Age Fashion bookmarklet.

@@ -1,0 +1,99 @@
+Problem we are solving:
+
+This is an informal interview, I'm really here to understand your problems within the context of creating information online, I'm not here to sell or pitch a product to you. I'm just here to learn.
+
+Before we get started and just to set the context let me describe roughly the problem we are working on - 
+
+We've believe there's too little information on the web that's at the same time useful, interesting, appropriately executed (e.g. referential, does its subject justice, well produced within the context of a subject), lasting, extensible and living.
+We also believe that many communities, both formal and informal, have tremendous amounts of information locked within them
+
+We're interested in making tools to help communities unlock their knowledge and make it accessible, engaging, and constantly letting it evolve.
+
+Before I get too deep into explaining anything, I'd like to get your take on if any of the problems we are looking to solve resonate with your experiences.
+
+Problem 1:
+It is really hard to create and evolve great content by yourself.
+
+Story to explain - 
+Keeping old blog posts up to date as information changes.
+
+
+
+
+Problem 2:
+It is hard to get communities to contribute great ideas and information
+
+
+
+
+
+Problem 3:
+It is hard to curate and shape the amount of information on the internet
+
+
+
+
+
+Problem 4:
+It is hard to build an authoritative presence on the internet. And even when you succeed it can be hard to to engage and audience.
+
+
+
+
+Beyond that I'd just like to get a feel for how you currently solve any of these problems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks! Would you be willing to participate further as we get closer to a solution we can show you?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
