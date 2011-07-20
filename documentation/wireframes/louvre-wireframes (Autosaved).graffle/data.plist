@@ -7,6 +7,8 @@
 		<string>com.omnigroup.OmniGrafflePro</string>
 		<string>138.19.0.152255</string>
 	</array>
+	<key>AutosavedUrl</key>
+	<string>file://localhost/Users/yosem/workspace/louvre-doc/documentation/wireframes/louvre-wireframes.graffle/</string>
 	<key>CreationDate</key>
 	<string>2011-07-12 15:06:53 -0700</string>
 	<key>Creator</key>
@@ -1239,7 +1241,7 @@ Last Updated\
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{6, 6.50248}, {124, 11}}</string>
+					<string>{{6, 6.50248}, {99, 11}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -4936,7 +4938,7 @@ Last Updated\
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{6, 6.50248}, {53, 11}}</string>
+					<string>{{6, 6.50248}, {69, 11}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -6759,7 +6761,7 @@ Last Updated\
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{6, 6.50248}, {53, 11}}</string>
+					<string>{{6, 6.50248}, {69, 11}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -6997,7 +6999,7 @@ Last Updated\
 		</dict>
 	</array>
 	<key>ModificationDate</key>
-	<string>2011-07-19 13:54:51 -0700</string>
+	<string>2011-07-19 13:55:17 -0700</string>
 	<key>Modifier</key>
 	<string>Yosem Sweet</string>
 	<key>NotesVisible</key>
@@ -18136,7 +18138,8 @@ input added}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
 
-\f0\fs20 \cf0 entry point: create canvas}</string>
+\f0\fs20 \cf0 entry point: \
+}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -18148,8 +18151,6 @@ input added}</string>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
 					<integer>33</integer>
-					<key>IsLocked</key>
-					<string>YES</string>
 					<key>Magnets</key>
 					<array>
 						<string>{1, 0.5}</string>
@@ -18180,13 +18181,6 @@ input added}</string>
 					<dict>
 						<key>Align</key>
 						<integer>0</integer>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
-
-\f0\fs20 \cf0 create canvas}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -18241,7 +18235,7 @@ input added}</string>
 			<key>RowSpacing</key>
 			<real>36</real>
 			<key>SheetTitle</key>
-			<string>User Flow - Create Canvas</string>
+			<string>User Flow - template</string>
 			<key>UniqueID</key>
 			<integer>14</integer>
 			<key>VPages</key>
@@ -19941,7 +19935,7 @@ Mirrors the 'utility navigation' but as simple text links.
 				<real>1</real>
 			</array>
 			<array>
-				<string>User Flow - Create Canvas</string>
+				<string>User Flow - template</string>
 				<real>1</real>
 				<real>1</real>
 			</array>
