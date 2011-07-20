@@ -1,12 +1,12 @@
-* A Saucy Book Customer Development *
+*A Saucy Book Customer Development*
 
-* Boris Wertz Interview Notes - 7/18: *
+*Boris Wertz Interview Notes - 7/18:*
 
 Boris is looking at the startup universe - he's found that there isn't much that helps summarize information from different people.
 
 He'd really like to build a Startup Bible and crowdsource a lot of the content.
 
-* What tools looked at to accomplish this? *
+*What tools looked at to accomplish this?*
 Systems he's found out there aren't very interactive. 
 
 For instance Quora often times the right answer is a summary or aggregation of all the answers but this is pretty tough to do.
@@ -22,7 +22,7 @@ Passion for the subject
 Also sees it as a chance to build reputation.
 Later talked a lot about distribution of the startup bible - seems to feel the startup bible itself would be a valuable product for him to have and share (blog, twitter, etc).  Help establish authority and knowledge in interactions.
 
-* Do the following problems resonate? *
+*Do the following problems resonate?*
 It is really hard to create and evolve great content by yourself.
 A: Yes [not a strong reaction initially - later was stronger]. Producing content is really hard. Finds that either having a support group (weightwatchers or personal trainer style) can help, also feels there can be success with a competitive environment although he personally is more motivated by the supporting side.
 
@@ -39,9 +39,9 @@ It is hard to build an authoritative presence on the internet. And when you succ
 A: Sure [didn't seem to resonate so well. true-ish]
 
 
-* Additional Notes *
+*Additional Notes*
 
-* Where would you look for help and contributions to the startup bible?
+*Where would you look for help and contributions to the startup bible?
 A: Initially start with his own existing network - 5 to 10 people to get started.
 Believes the initial creator will need to do some work to get canvas started.
 Once started would start to share via twitter and emails
@@ -49,14 +49,14 @@ Once started would start to share via twitter and emails
 *[Nearly unbidden - veered from contributions and help discussion - started discussing distribution of Startup Bible]
 A: "I'm looking to distribute the startup bible. Brand it W Media Ventures, integrate it with my blog [...]. Distribution is key"
 
-* How hard is distribution of information for you right now? *
+*How hard is distribution of information for you right now?*
 A: Accomplishes it already, but providing support would be ideal - especially support with creating facebook and twitter [things] to help with distribution.
 Thinks Plancast has done an awesome job of integration with social networks
 
-* What do you use right now for social interactions *
+*What do you use right now for social interactions*
 Primarily uses twitter as opposed to FB. Mainly because he uses it professionally. Currently does most of his sharing with email and twitter.
 
-* What would you need to visit every day? *
+*What would you need to visit every day?*
 That's all about the quality of interaction. If the interactions are great, I'm always learning, and there is a wide breadth of input I'll visit every day.
 
 *How much control would you want over the community and the generated content*
