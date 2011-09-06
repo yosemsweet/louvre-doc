@@ -12,9 +12,17 @@ Loorp is a collaborative publishing platform that helps you collect, organize, a
 *Is it for me?*
 If you spend time collecting and organizing information from across the internet for the purpose of helping people, Loorp was built for you.
 
-
 *Why should I use it instead of something else?*
-Loorp will save you time 
+Loorp will help you save time organizing and publishing your community's ideas. Freeing you up to focus on making a difference.
+
+Attention Catcher:
+Save time organizing and publishing your community's ideas
+
+CTA:
+Start saving time with Loorp
+Try it for yourself. Help your community collect, organize, and publish with just a few clicks.
+Try it for free!
+
 
 Secondary Points:
 *How does it work*
