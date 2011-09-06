@@ -9,10 +9,10 @@ Key points:
 *What is it?*
 Loorp is a collaborative publishing platform that helps you collect, organize, and make accessible your community's ideas.
 
-*Is it for me?*
-If you spend time collecting and organizing information from across the internet for the purpose of helping people, Loorp was built for you.
+*Is Loorp for me?*
+If you collect, organize, or publish information from multiple sources Loorp was built for you.
 
-*Why should I use it instead of something else?*
+*Why should I use Loorp?*
 Loorp will help you save time organizing and publishing your community's ideas. Freeing you up to focus on making a difference.
 
 Attention Catcher:
@@ -26,6 +26,18 @@ Try it for free!
 
 Secondary Points:
 *How does it work*
+
+Tabs: Overview, Community, Feed, Publishing
+
+Overview Tab:
+What is the Loorp process?
+<Video covering process>
+Loorp relies on 3 key concepts
+Community:
+Work with your friends, colleagues or associates to gather interesting ideas from around the world. 
+Learn about Loorp's Community features
+
+
 Loorp is built on 3 major components
 1) Community - The engine at the heart of Loorp is our collaborative tool set allowing you to work with your friends, colleagues and peers to make a difference. 
 
