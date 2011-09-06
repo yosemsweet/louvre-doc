@@ -5,29 +5,39 @@ Goals:
 Drive qualified creators to create a Loorp canvas
 
 Key points:
-What is it?
-Loorp is a tool to help your community organize, refine, and make accessible the best information from around the internet, regardless of it being hidden in emails, websites, tweets, facebook posts, or brains.
+*What is it?*
+Loorp is a collaborative publishing platform that helps you collect, organize, and make accessible your community's ideas.
 
-Loorp adds a layer of permanence and meaning to your groups day-to-day interactions. 
 
 We use 3 core components to help you save time.
 1) Community - The engine at the heart of Loorp is our collaborative tool set allowing you to work with your friends, colleagues and peers to make a difference. 
-Loorp's collaborative curation and content management tools empower the group to categorize, evolve, discuss, and promote ideas and information.
+
   
 2) Feed - Loorp adds new information for discussion by the community through the Feed system. The Feed system provides easy and fast methods to present new ideas and information to the community. You can quickly add information from other websites, social networks, forums, or even email chains. Your community can also add new ideas directly to the feed from Loorp itself.
-The Feed system has an expansive and ever-growing combination of input mechanisms and input types. Everything from adding a full twitter feed via a single click while on twitter to emailing in your Grandparent's favorite shortbread recipe.
+
 
 3) Publishing - With Loorp it is easy to combine the best of the input from the feed into permanent pages. Loorp uses a simple drag and drop page creation and editing system so you don't have to waste your time building pages.
 
 
-Is it for me?
-If you are looking for ways to save time organizing and publishing information so you can concentrate on making a difference in the world, Loorp is for you.
-Whether you are looking to make the world a better place, work with your team to help your business, or you just want to learn from a group of people with the same interests, Loorp is for you.
+*Is it for me?*
 
-Why should I use it instead of something else?
+
+*Why should I use it instead of something else?*
 Loorp will save you time 
 
 Help people self qualify as Loorp Creators
 Answer what is loorp and how can it help me
+
+
+
+
+Language snippets (one per line)
+Loorp is a tool to help your community organize, refine, and make accessible the best information from around the internet, regardless of it being hidden in emails, websites, tweets, facebook posts, or brains.
+Get more and better ideas from your community
+Loorp's collaborative curation and content management tools empower the group to categorize, evolve, discuss, and promote ideas and information.
+The Feed system has an expansive and ever-growing combination of input mechanisms and input types. Everything from adding a full twitter feed via a single click while on twitter to emailing in your Grandparent's favorite shortbread recipe.
+Whether you are looking to make the world a better place, work with your team to help your business, or you just want to learn from a group of people with the same interests, Loorp is for you.
+If you are looking for ways to save time organizing and publishing information so you can concentrate on making a difference in the world, Loorp is for you.
+Loorp adds a layer of permanence and meaning to your groups day-to-day interactions. 
 
 
