@@ -1,0 +1,24 @@
+Outline:
+
+Introduction
+
+POINT_OF_CONTACT mentioned you've been dealing with PROBLEM
+
+Currently it sounds like you are doing CURRENT_SOLUTION to help with that.
+
+I'm not sure how much POINT_OF_CONTACT told you about our solution, but we think we're on to something that could be a big help.
+
+Loorp is a tool to help your community organize, refine, and package the best information from around the internet, regardless of it being hidden in emails, websites, tweets, facebook posts, or brains.
+
+With Loorp we're trying to make this collaboration and organization process easy and fast, unlike manually digging through . To help us deliver on that I'd like to talk through our proposed product with you and see what parts of it you think would be truly helpful as well as help me figure out where we're talking about things that don't make any sense.
+
+Loorp description:
+3 main concepts - simply put together
+Community, Input Feed, Page
+
+Communities have a collaborative feed containing all input the community found interesting enough to share. If you want to limit your community to only a select group of people, Loorp will support that in the future.
+
+
+
+
+

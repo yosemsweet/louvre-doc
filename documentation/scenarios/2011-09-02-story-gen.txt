@@ -1,0 +1,31 @@
+Entry experience
+Acquisition and Activation are key metrics
+
+AB Testing system
+
+
+Simplify homepage:
+Clear what to do (start a canvas)
+Clear what advantages of Loorp are:
+  Save time organizing and publishing your community's ideas
+  Save time gathering ideas and information
+  Influence people and leave your mark
+Link to scrolly
+Link to example canvas
+
+Canvas Start process - show progress in learning system:
+Create Canvas
+How does a canvas work? (video, text?)
+Add input via form
+How can I add input to canvas? (video, text, animation, highlighted interface elements?)
+  Set up email
+  Set up bookmarklet
+
+Create page
+  Add content to page
+  How can I use the content in the input feed?
+Invite member
+
+Make a sample canvas:
+Loorp development canvas - test driven development in ruby on rails
+
