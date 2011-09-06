@@ -2,14 +2,23 @@ Loorp Homepage Content:
 
 
 Goals:
+Help people self qualify as Loorp Creators
 Drive qualified creators to create a Loorp canvas
 
 Key points:
 *What is it?*
 Loorp is a collaborative publishing platform that helps you collect, organize, and make accessible your community's ideas.
 
+*Is it for me?*
+If you spend time collecting and organizing information from across the internet for the purpose of helping people, Loorp was built for you.
 
-We use 3 core components to help you save time.
+
+*Why should I use it instead of something else?*
+Loorp will save you time 
+
+Secondary Points:
+*How does it work*
+Loorp is built on 3 major components
 1) Community - The engine at the heart of Loorp is our collaborative tool set allowing you to work with your friends, colleagues and peers to make a difference. 
 
   
@@ -17,17 +26,6 @@ We use 3 core components to help you save time.
 
 
 3) Publishing - With Loorp it is easy to combine the best of the input from the feed into permanent pages. Loorp uses a simple drag and drop page creation and editing system so you don't have to waste your time building pages.
-
-
-*Is it for me?*
-
-
-*Why should I use it instead of something else?*
-Loorp will save you time 
-
-Help people self qualify as Loorp Creators
-Answer what is loorp and how can it help me
-
 
 
 
