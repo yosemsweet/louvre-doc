@@ -20,14 +20,14 @@ Save time organizing and publishing your community's ideas
 
 CTA:
 Start saving time with Loorp
-Try it for yourself. Help your community collect, organize, and publish with just a few clicks.
+Try it for yourself. Help your community collect, organize, and publish information with just a few clicks.
 Try it for free!
 
 
 Secondary Points:
 *How does it work*
 
-Tabs: Overview, Community, Feed, Publishing
+Tabs: Overview, Community, Ideas, Feed, Publishing
 
 Overview Tab:
 The Loorp process
@@ -40,8 +40,13 @@ The Loorp process
 >
 
 Community:
-The engine at the heart of Loorp is our collaborative tool–set allowing you to work with your friends, colleagues and peers to make a difference.
+Underlying everything at Loorp is your community. Loorp provides you collaborative tool–set allowing you to work with your friends, colleagues and peers to make a difference.
 Learn how Loorp enables Communities »
+
+Ideas:
+Ideas are the building blocks of Loorp.
+New ideas are constantly being submitted by your members. Once an idea is in Loorp your community can discuss, shape, and promote it. Ideas can be used to generate pages or even better ideas.
+Learn how Ideas can be used at Loorp »
 
 Feed:
 Loorp's Feed system provides fast and easy tools to collect new ideas and information and share them with the community, from anywhere, at anytime. 
