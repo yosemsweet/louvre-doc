@@ -25,28 +25,16 @@ Try it for free!
 
 
 Secondary Points:
-*How does it work*
+How Does it Work?
 
-Tabs: Overview, Community, Ideas, Feed, Publishing
-
-Overview Tab:
-The Loorp process
-
-< 
-  Video covering process - 
-  Add Input
-  Discuss and Evolve
-  Make accessible by publishing 
->
 
 Community:
 Underlying everything at Loorp is your community. Loorp provides you collaborative tool–set allowing you to work with your friends, colleagues and peers to make a difference.
-Learn how Loorp enables Communities »
+How Loorp enables Community collaboration »
 
 Ideas:
-Ideas are the building blocks of Loorp.
-New ideas are constantly being submitted by your members. Once an idea is in Loorp your community can discuss, shape, and promote it. Ideas can be used to generate pages or even better ideas.
-Learn how Ideas can be used at Loorp »
+The Community's Ideas are the building blocks of Loorp. Each idea can be shaped, discussed, and promoted. The best of the ideas can be used to quickly publish pages.
+How Ideas are used by Loorp » 
 
 Feed:
 Loorp's Feed system provides fast and easy tools to collect new ideas and information and share them with the community, from anywhere, at anytime. 
@@ -54,7 +42,7 @@ Learn how Loorp makes it easy to collect and organize information »
 
 Publishing:
 Loorp uses a simple drag and drop page creation system making it easy to combine widgets to build whatever you need.
-Learn how Loorp's publishing tools save you time »
+How Loorp's publishing tools save you time »
 
 Community Tab:
 
@@ -107,9 +95,12 @@ Loorp adds a layer of permanence and meaning to your groups day-to-day interacti
 Loorp is built on 3 major components
 1) Community - The engine at the heart of Loorp is our collaborative tool set allowing you to work with your friends, colleagues and peers to make a difference. 
 
+
+2) Ideas - Ideas are the building blocks of Loorp.
+New ideas are constantly being submitted by your members. Once an idea is in Loorp your community can discuss, shape, and promote it. Ideas can be used to generate pages or even better ideas.  
   
-2) Feed - Loorp adds new information for discussion by the community through the Feed system. The Feed system provides easy and fast methods to present new ideas and information to the community. You can quickly add information from other websites, social networks, forums, or even email chains. Your community can also add new ideas directly to the feed from Loorp itself.
+3) Feed - Loorp adds new information for discussion by the community through the Feed system. The Feed system provides easy and fast methods to present new ideas and information to the community. You can quickly add information from other websites, social networks, forums, or even email chains. Your community can also add new ideas directly to the feed from Loorp itself.
 
 
-3) Publishing - With Loorp it is easy to combine the best of the input from the feed into permanent pages. Loorp uses a simple drag and drop page creation and editing system so you don't have to waste your time building pages.
+4) Publishing - With Loorp it is easy to combine the best of the input from the feed into permanent pages. Loorp uses a simple drag and drop page creation and editing system so you don't have to waste your time building pages.
 

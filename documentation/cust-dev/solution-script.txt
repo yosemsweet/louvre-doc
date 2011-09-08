@@ -8,16 +8,28 @@ Currently it sounds like you are doing CURRENT_SOLUTION to help with that.
 
 I'm not sure how much POINT_OF_CONTACT told you about our solution, but we think we're on to something that could be a big help.
 
+
+Elevator description:
 Loorp is a tool to help your community organize, refine, and package the best information from around the internet, regardless of it being hidden in emails, websites, tweets, facebook posts, or brains.
+
+But What is It?:
+Loorp is a collaborative platform. We have a system that enables everyone in your community to easily add information to Loorp, regardless of where it comes from. Once information is in Loorp we make it accessible to your community for further discussion and evolution. Any information you wish to push beyond the community can be made permanent and accessible by publishing.
+
+
+
+
 
 With Loorp we're trying to make this collaboration and organization process easy and fast, unlike manually digging through . To help us deliver on that I'd like to talk through our proposed product with you and see what parts of it you think would be truly helpful as well as help me figure out where we're talking about things that don't make any sense.
 
-Loorp description:
-3 main concepts - simply put together
-Community, Input Feed, Page
+We're using 4 core concepts to accomplish this.
 
-Communities have a collaborative feed containing all input the community found interesting enough to share. If you want to limit your community to only a select group of people, Loorp will support that in the future.
+Ideas - Ideas are the building blocks of Loorp. You can add new ideas to your community's Feed whether those ideas are brilliant flashes of insights, funny pictures, links to other websites, insightful questions, etc. Each idea can be discussed and shaped by the the community in isolation. You can categorize them to help combine like ideas and to help members of your community dig more deeply through a concept. Ideas are also used as the raw building blocks for publishing pages.
 
+Feed - The Feed is a dynamic list of ideas, prioritized and filtered according to the desires of the community and your contextual interestes. As new ideas come in they show up on the feed which is a central part of the experience for every member of the community. You can add to the feed straight Loorp, but also via email and a bookmarklet.
+ 
+Page - At the end of the day, anything you want to make more permanent or accessible should be published to a page. This is placing ideas from the feed onto the page. At anytime you can easily evolve the page by modifying the ideas on it or by adding new ideas from the feed.
+
+Underlying this is a collaborative tool-set that helps your community engage with the ideas in the feed and with each other. Pretty simple stuff here: providing comments on ideas and pages, promotion tools so the community can highlight the most interesting ideas in the feed, allowing anyone in the community to edit ideas or pages, ability to watch ideas and pages for changes to stay on top of what's happening, tight integration with facebook. 
 
 
 
