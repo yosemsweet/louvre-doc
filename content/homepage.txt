@@ -30,8 +30,15 @@ Secondary Points:
 Tabs: Overview, Community, Feed, Publishing
 
 Overview Tab:
-What is the Loorp process?
-<Video covering process>
+The Loorp process
+
+< 
+  Video covering process - 
+  Add Input
+  Discuss and Evolve
+  Make accessible by publishing 
+>
+
 Community:
 The engine at the heart of Loorp is our collaborative tool–set allowing you to work with your friends, colleagues and peers to make a difference.
 Learn how Loorp enables Communities »
@@ -44,16 +51,42 @@ Publishing:
 Loorp uses a simple drag and drop page creation system making it easy to combine widgets to build whatever you need.
 Learn how Loorp's publishing tools save you time »
 
-
 Community Tab:
-Loorp is built on 3 major components
-1) Community - The engine at the heart of Loorp is our collaborative tool set allowing you to work with your friends, colleagues and peers to make a difference. 
 
-  
-2) Feed - Loorp adds new information for discussion by the community through the Feed system. The Feed system provides easy and fast methods to present new ideas and information to the community. You can quickly add information from other websites, social networks, forums, or even email chains. Your community can also add new ideas directly to the feed from Loorp itself.
+Loorp Communities
+Loorp's collaborative curation and content management tools empower the group to categorize, evolve, discuss, and promote ideas and information.
+
+Use existing social connections
+
+Discuss and evolve individual ideas
+
+Use the community to highlight and promote the most interesting ideas for further investigation
 
 
-3) Publishing - With Loorp it is easy to combine the best of the input from the feed into permanent pages. Loorp uses a simple drag and drop page creation and editing system so you don't have to waste your time building pages.
+Features:
+Comment
+Add ideas (questions, stories, links, pictures, etc)
+Edit
+Build
+Talk
+Categorize
+Promote
+
+Feed Tab:
+
+Features:
+Allow anyone to contribute
+Contribute via multiple channels (email, bookmarklet, rss, twitter, facebook)
+Sort and categorize
+Structured data
+
+Publishing Tab:
+
+Features:
+Drag and drop publishing
+Collaborative editing
+Customizable layout
+
 
 
 
@@ -66,4 +99,12 @@ Whether you are looking to make the world a better place, work with your team to
 If you are looking for ways to save time organizing and publishing information so you can concentrate on making a difference in the world, Loorp is for you.
 Loorp adds a layer of permanence and meaning to your groups day-to-day interactions. 
 
+Loorp is built on 3 major components
+1) Community - The engine at the heart of Loorp is our collaborative tool set allowing you to work with your friends, colleagues and peers to make a difference. 
+
+  
+2) Feed - Loorp adds new information for discussion by the community through the Feed system. The Feed system provides easy and fast methods to present new ideas and information to the community. You can quickly add information from other websites, social networks, forums, or even email chains. Your community can also add new ideas directly to the feed from Loorp itself.
+
+
+3) Publishing - With Loorp it is easy to combine the best of the input from the feed into permanent pages. Loorp uses a simple drag and drop page creation and editing system so you don't have to waste your time building pages.
 
