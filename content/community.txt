@@ -1,0 +1,37 @@
+
+Community Tab:
+
+Loorp Communities
+Loorp's collaborative curation and content management tools empower the group to categorize, evolve, discuss, and promote ideas and information.
+
+Use existing social connections
+
+Discuss and evolve individual ideas
+
+Use the community to highlight and promote the most interesting ideas for further investigation
+
+
+Features:
+Comment
+Add ideas (questions, stories, links, pictures, etc)
+Edit
+Build
+Talk
+Categorize
+Promote
+
+Feed Tab:
+
+Features:
+Allow anyone to contribute
+Contribute via multiple channels (email, bookmarklet, rss, twitter, facebook)
+Sort and categorize
+Structured data
+
+Publishing Tab:
+
+Features:
+Drag and drop publishing
+Collaborative editing
+Customizable layout
+
