@@ -1,6 +1,8 @@
 Content Plan:
 
 Why?
+Blog - our journey learning how collaboration works while we build a tool set to help people save time.
+
 Goals:
 1) Give us a voice to engage with customers
 2) Laying groundwork for future social acquisition
@@ -14,17 +16,66 @@ Once we demonstrate traction: more Creators
 Who are our secondary audiences?
 Collaborators/Interest groups
 
-Channels:
+How? (Channels):
+Priority 1-
 Blog
 Twitter
+
+Priority 2-
 Youtube
 Facebook
+
+Priority 3-
 Loorp Community
 Slideshare.net
 
 
+What? (Meat of the plan):
 
-  
+Blog stories - tweet each post.
+
+
+Organizing your feeds
+Information design (organizing information)
+Collecting information (take ambient transient information, mine it and store the best)
+Collaborate to keep information up to date
+How does information evolve through collaboration? (How does a wikipedia article evolve?)
+Multimedia collaboration (how to enhance content with multimedia - collaboratively)
+Can you collaborate with multimedia creation? What would it look like?
+History and change tracking in a collaborative environment - accountability in collaboration
+Open vs closed collaboration
+Ownership in collaboration - legal, intellectual, emotional
+Collaboration case studies - Open Source software
+Collaboration case studies - Wikipedia
+Collaboration case studies - Drupal
+Collaboration case studies - OEMs, Operating Systems, Providers in the Mobile markets
+Collaboration case studies - Asset management in business manufacturing pipelines
+Collaboration case studies - Race integration in sports
+Collaboration case studies - Online music (music cloud, turntable fm)
+Collaboration case studies - Music Bob Geldoff
+Collaboration case studies - Obama election 2008
+Top 10 collaboration tools - project management
+Top 10 collaboration tools - document creation
+Top 10 collaboration tools - you've never heard of
+Time savers
+Cool shit
+Collaboration Epic Fail - World War 1
+Collaboration Epic Fail - Symbian
+Collaboration Epic Fail - ???
+Challenges in collaborating on a small scale - international offices
+Demystifying collaboration - what does it mean to work together
+What have we learned this week?
+Using Loorp case studies (series)
+What have we changed in Loorp this week (series)
+
+
+Whenever we find a cool link - tweet
+
+When?
+Build calendar
+
+Who?
+Michael, Michal, Yosem, Peter, everyone
   
 Support Plan:
 
