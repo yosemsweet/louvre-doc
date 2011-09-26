@@ -3,7 +3,7 @@ Elevator description:
 Loorp is a tool to help your community organize, refine, and package the best information from around the internet, regardless of it being hidden in emails, websites, tweets, facebook posts, or brains.
 
 But What is It?:
-Loorp is a collaborative platform. We have a system that enables everyone in your community to easily add information to Loorp, regardless of where it comes from. Once information is in Loorp we make it accessible to your community for further discussion and evolution. Any information you wish to push beyond the community can be made permanent and accessible#4b4b4b by publishing.
+Loorp is a collaborative platform. We have a system that enables everyone in your community to easily add information to Loorp, regardless of where it comes from. Once information is in Loorp we make it accessible to your community for further discussion and evolution. Any information you wish to push beyond the community can be made permanent and accessible by publishing.
 
 
 
