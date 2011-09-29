@@ -78413,7 +78413,7 @@ How do I delete a snippet?\
 		<key>SidebarWidth</key>
 		<integer>196</integer>
 		<key>VisibleRegion</key>
-		<string>{{15, 1}, {1070, 612}}</string>
+		<string>{{0, 1}, {1070, 612}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>
