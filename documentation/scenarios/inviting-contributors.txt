@@ -1,0 +1,3 @@
+Scenario: Connie Martin inviting wine producers to describe which food their wine goes with
+
+Connie wants to share wine and food pairings and is considering setting up a couple example pages with the wineries she reps. She'd also like to invite other wineries to contribute with wine pairing recommendations for their wines.
