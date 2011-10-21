@@ -6,14 +6,24 @@ Communities have several specific features:
 
 * Community settings
 
-** Types of Communities - All communities require to be a member of the community to contribute or modify the community's information. 
+** Types of Communities
+All communities require to be a member of the community to contribute or modify the community's information. 
 
-*** Open Communities - An open community is one where anyone can join. This results in a very open and freeflowing experience within the community. Any community who's focus and need for expertise extends beyond the bounds of the creators circle of influence is a great candidate for an open community. For example a community focused on analyzing fiscal policy in the EU would benefit greatly from a breadth of viewpoints which is easier to gain with an open community.
+*** Open Communities
+An open community is one where anyone can join. This results in a very open and freeflowing experience within the community. Any community who's focus and need for expertise extends beyond the bounds of the creators circle of influence is a great candidate for an open community. For example a community focused on analyzing fiscal policy in the EU would benefit greatly from a breadth of viewpoints which is easier to gain with an open community.
 
-*** Closed Communities - A closed community requires non-members to apply for permission to join the community. The owner of the community can approve, decline, or ban an applicant based on their application request as well as any background information they wish to gather. Closed communities make sense when the topic being discussed needs a certain amount of moderation (say a community focused on planning a wedding or corporate documentation and support community) or when there is a high likelihood of trolls (political or religious communities being prime examples).
+*** Closed Communities
+A closed community requires non-members to apply for permission to join the community. The owner of the community can approve, decline, or ban an applicant based on their application request as well as any background information they wish to gather. Closed communities make sense when the topic being discussed needs a certain amount of moderation (say a community focused on planning a wedding or corporate documentation and support community) or when there is a high likelihood of trolls (political or religious communities being prime examples).
 
-*** Public Communities - A public community is visible to anyone and everyone. The communities pages and feed are public, although only editable by community members.
+*** Public Communities
+A public community is visible to anyone and everyone. The communities pages and feed are public, although only editable by community members.
 
-*** Private Communities (coming soon) - A private community is only visible to members. If someone who isn't a member even tries to view a page they will be asked to apply instead.
+*** Private Communities (coming soon)
+A private community is only visible to members. If someone who isn't a member even tries to view a page they will be asked to apply instead.
+
+* Snippets
+At Loorp, communities work together on and with snippets. A snippet is a small self contained piece of information that can be discussed, evolved, and used. Any member of a community can add, edit, or start a conversation around, a snippet. Snippets can be categorized, promoted, rejected, and ultimately used when packaging community knowledge.
+
+- see Snippets
 
 

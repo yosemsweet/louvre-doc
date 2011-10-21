@@ -1,0 +1,7 @@
+*Snippets*
+At Loorp, communities work together on and with snippets. A snippet is a small self contained piece of information that can be discussed, evolved, and used. Any member of a community can add, edit, or start a conversation around, a snippet. Snippets can be categorized, promoted, rejected, and ultimately used when packaging community knowledge.
+
+* Types of snippets
+
+** Text snippet
+Probably the most basic and fundamental building block available. A text snippet provides you
