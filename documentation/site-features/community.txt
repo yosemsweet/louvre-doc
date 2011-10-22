@@ -22,8 +22,14 @@ A public community is visible to anyone and everyone. The communities pages and 
 A private community is only visible to members. If someone who isn't a member even tries to view a page they will be asked to apply instead.
 
 * Snippets
-At Loorp, communities work together on and with snippets. A snippet is a small self contained piece of information that can be discussed, evolved, and used. Any member of a community can add, edit, or start a conversation around, a snippet. Snippets can be categorized, promoted, rejected, and ultimately used when packaging community knowledge.
+At Loorp, communities work together on and with snippets. A snippet is a small self contained piece of information that can be discussed, evolved, and used. Any member of a community can make, edit, or discuss a snippet. Snippets can be categorized, promoted, rejected, and ultimately used when packaging community knowledge.
 
 - see Snippets
 
+* Feed
+Every community has a feed where members can post/share anything they want.
+
+
+* Pages
+ 
 
