@@ -4,4 +4,38 @@ At Loorp, communities work together on and with snippets. A snippet is a small s
 * Types of snippets
 
 ** Text snippet
-Probably the most basic and fundamental building block available. A text snippet provides you
+Probably the most basic and fundamental building block available.
+
+** Link Snippet
+A link snippet provides a named link to an external source of information and can include a quote from the linked to source.
+
+** Photo snippet
+A photo snippet allows you to share an interesting picture. You can either link to an external photo or upload your own to Loorp.
+
+** Video snippet
+A video snippet allows you to share interesting video. You can embed YouTube or Vimeo videos.
+
+** Tweet snippet (coming soon)
+A twitter snippet allows you to share individual tweets. From the tweet you'll have access to RTs, the tweeter, and any hashtags.
+
+** Facebook snippet (coming soon)
+A Facebook status snippet allows you to share individual facebook posts, along with any comments.
+
+* Premium snippets (for premium plans only)
+Loorp also offers a set of premium snippets for premium communities that give you an enhanced set of functionality.
+
+** Advertising snippet (coming soon)
+Integrate your DFP or AdSense accounts with Loorp and add advertising to your pages.
+
+** Chart snippet (coming soon)
+Display tabular data and associated graphs for your community.
+
+** Map snippet (coming soon)
+Share maps including geocoded information.
+
+** Review snippet (coming soon)
+A review snippet allows your community and readers to provide their own reviews and ratings
+
+
+
+
